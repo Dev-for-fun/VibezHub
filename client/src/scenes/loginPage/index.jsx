@@ -13,7 +13,7 @@ const LoginPage = () => {
         p="1rem 6%"
         textAlign="center"
       >
-        <Typography fontWeight="bold" fontSize="32px" color="purple">
+        <Typography fontWeight="bold" fontSize="32px" color={theme.palette.primary.main}>
         VibezHub
         </Typography>
       </Box>
